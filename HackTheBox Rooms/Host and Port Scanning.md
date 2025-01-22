@@ -1,8 +1,3 @@
-2025-01-20 21:08 
-
-Tags:: [[Penetration Testing]] 
-Up:: [[Network Enumeration With Nmap]]
-Down:: [[Saving the Results]]
 
 ---
 ## Host and Port Scanning Notes/Guide
